@@ -3,8 +3,6 @@
 ## First assignment
 Welcome to my first roadmap.sh C project. This is a simple number guessing CLI game where the computer picks a random number, and the user has to guess it.
 
-https://roadmap.sh/projects/number-guessing-game
-
 ## How to run the game:
 1. Clone the git repository
 2. Open the terminal and 
